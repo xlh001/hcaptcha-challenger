@@ -1,4 +1,4 @@
-sanic~=23.6.0
+sanic~=25.12.1
 loguru
 selenium
 webdriver_manager
